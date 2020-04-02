@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/React-in-github-weather/static/css/main.7d393ff3.chunk.css",
+    "main.js": "/React-in-github-weather/static/js/main.800b33bc.chunk.js",
+    "main.js.map": "/React-in-github-weather/static/js/main.800b33bc.chunk.js.map",
+    "runtime-main.js": "/React-in-github-weather/static/js/runtime-main.3387a115.js",
+    "runtime-main.js.map": "/React-in-github-weather/static/js/runtime-main.3387a115.js.map",
+    "static/css/2.34f0f139.chunk.css": "/React-in-github-weather/static/css/2.34f0f139.chunk.css",
+    "static/js/2.3bd3a2a3.chunk.js": "/React-in-github-weather/static/js/2.3bd3a2a3.chunk.js",
+    "static/js/2.3bd3a2a3.chunk.js.map": "/React-in-github-weather/static/js/2.3bd3a2a3.chunk.js.map",
+    "index.html": "/React-in-github-weather/index.html",
+    "precache-manifest.29d8654d6768ab4e3946a5527e899b9d.js": "/React-in-github-weather/precache-manifest.29d8654d6768ab4e3946a5527e899b9d.js",
+    "service-worker.js": "/React-in-github-weather/service-worker.js",
+    "static/css/2.34f0f139.chunk.css.map": "/React-in-github-weather/static/css/2.34f0f139.chunk.css.map",
+    "static/css/main.7d393ff3.chunk.css.map": "/React-in-github-weather/static/css/main.7d393ff3.chunk.css.map",
+    "static/js/2.3bd3a2a3.chunk.js.LICENSE.txt": "/React-in-github-weather/static/js/2.3bd3a2a3.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/React-in-github-weather/static/media/bg.ab11d1a6.jpg",
+    "static/media/bootstrap.min.css": "/React-in-github-weather/static/media/glyphicons-halflings-regular.fa277232.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3387a115.js",
+    "static/css/2.34f0f139.chunk.css",
+    "static/js/2.3bd3a2a3.chunk.js",
+    "static/css/main.7d393ff3.chunk.css",
+    "static/js/main.800b33bc.chunk.js"
+  ]
+}
